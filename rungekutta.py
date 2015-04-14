@@ -1,4 +1,3 @@
-# Thilo Schmid
 # schmithi@student.ethz.ch
 # 14.04.2015
 
